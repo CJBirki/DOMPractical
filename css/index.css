@@ -1,3 +1,7 @@
-imag {
-    max-block-size: 200px;
+<style>
+
+img {
+    max-width: 200px;
 }
+
+</style>
